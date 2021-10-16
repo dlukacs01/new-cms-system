@@ -1,7 +1,7 @@
 Udemy (course name): PHP with Laravel for beginners - Become a Master in Laravel  
 Udemy (URL): https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/  
 note: written in Laravel 7  
-project URL (demo): ???
+project URL (demo): https://dlukacs.com/laravel7/
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
